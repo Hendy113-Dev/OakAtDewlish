@@ -1,4 +1,4 @@
 
-const toggle=document.querySelector('.menu-toggle'), nav=document.querySelector('.nav');
-if(toggle&&nav){toggle.addEventListener('click',()=>nav.classList.toggle('open'));}
-document.querySelectorAll('[data-year]').forEach(el=>el.textContent=new Date().getFullYear());
+const t=document.querySelector('.menu-toggle'),n=document.querySelector('.nav-links');
+if(t&&n){t.addEventListener('click',()=>{const o=n.classList.toggle('open');t.setAttribute('aria-expanded',String(o));});}
+document.querySelectorAll('[data-year]').forEach(e=>e.textContent=new Date().getFullYear());
