@@ -1,14 +1,16 @@
-The Oak at Dewlish website
+THE OAK AT DEWLISH — PROFESSIONAL WEBSITE
 
-Open index.html to preview the site.
+Open index.html to preview.
 
-Pages:
-- Home
-- Food Menu
-- B&B & Rooms
-- Contact
+Included:
+- Professional pub-style homepage based on the approved visual direction
+- Large oak-tree logo
+- Supplied pub photography used throughout the site
+- Real pub exterior used as the main hero/header image
+- Full food menu page
+- Accommodation page
+- Contact / Find Us page
+- Responsive mobile navigation
+- Supplied printed-menu photographs
 
-Before publishing:
-- Replace placeholder contact details.
-- Add real opening times.
-- Add real pub and accommodation photos if available.
+Before publishing, replace the placeholder telephone/opening-hours/social details with the current pub information.
