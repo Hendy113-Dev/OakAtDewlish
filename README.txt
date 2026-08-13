@@ -14,3 +14,8 @@ Included:
 - Supplied printed-menu photographs
 
 Before publishing, replace the placeholder telephone/opening-hours/social details with the current pub information.
+
+
+PHOTO UPDATE
+------------
+Updated all main website photo references to use the current files in assets/.
